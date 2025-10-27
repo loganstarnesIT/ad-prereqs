@@ -1,4 +1,4 @@
-<img width="785" height="901" alt="image" src="https://github.com/user-attachments/assets/d89fdcd0-5ff2-40d2-8672-2461e8bd2dc8" /><p align="center">
+
 <img src="https://i.imgur.com/MmGwCrf.png" alt="active directory logo"/>
 </p>
 
