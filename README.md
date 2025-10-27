@@ -1,5 +1,5 @@
 <p align="center">
-<img src="[https://e7.pngegg.com/pngimages/530/851/png-clipart-windows-active-directory-logo-active-directory-federation-services-microsoft-ado-net-data-provider-multi-factor-authentication-active-directory-blue-angle-thumbnail.png]" alt="active directory logo"/>
+<img src="[https://imgur.com/gallery/active-directory-logo-nsnMDYk#RgTEis3]" alt="active directory logo"/>
 </p>
 
 <h1>Active Directory - Prerequisites and Installation</h1>
