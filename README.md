@@ -1,5 +1,5 @@
 <p align="center">
-<img src="[https://i.imgur.com/Clzj7Xs.png](https://www.31west.net/wp-content/uploads/2022/11/what-is-active-directory-and-why-is-it-used.png)" alt="osTicket logo"/>
+<img src="[https://www.31west.net/wp-content/uploads/2022/11/what-is-active-directory-and-why-is-it-used.png]" alt="active directory logo"/>
 </p>
 
 <h1>Active Directory - Prerequisites and Installation</h1>
