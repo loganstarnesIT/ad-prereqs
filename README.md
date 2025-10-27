@@ -1,14 +1,10 @@
 <p align="center">
-<img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
+<img src="[https://i.imgur.com/Clzj7Xs.png](https://www.31west.net/wp-content/uploads/2022/11/what-is-active-directory-and-why-is-it-used.png)" alt="osTicket logo"/>
 </p>
 
-<h1>osTicket - Prerequisites and Installation</h1>
+<h1>Active Directory - Prerequisites and Installation</h1>
 This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
 
-
-<h2>Video Demonstration</h2>
-
-- ### [YouTube: How To Install osTicket with Prerequisites](https://www.youtube.com)
 
 <h2>Environments and Technologies Used</h2>
 
@@ -18,14 +14,14 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>Operating Systems Used </h2>
 
-- Windows 10</b> (21H2)
+- Windows 11</b> (25H2)
 
 <h2>List of Prerequisites</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
+- 
+- 1 Virtual Machine acting as Client
+- 1 Virtual Machine acting as Domain Controller
+- 
 - Item 5
 
 <h2>Installation Steps</h2>
