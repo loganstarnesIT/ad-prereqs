@@ -1,6 +1,5 @@
 <p align="center">
-<img src="<img width="528" height="306" alt="image" src="https://github.com/user-attachments/assets/c6085297-ef15-4e41-9f8f-cf89bc1b5482" />
-" alt="active directory logo"/>
+<img src="https://imgur.com/gallery/active-directory-logo-nsnMDYk#RgTEis3" alt="active directory logo"/>
 </p>
 
 <h1>Active Directory - Prerequisites and Installation</h1>
